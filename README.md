@@ -8,4 +8,4 @@ Group Members:
 Team Member Contributions:
 - Zhiyan (Ashley) Chen |
 - Jasmine Ho |
-- JC Abanto | Questions 1-8
+- JC Abanto | Questions 1-6
