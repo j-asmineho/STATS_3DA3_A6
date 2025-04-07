@@ -2,7 +2,7 @@
 
 Group Members:
 - Zhiyan (Ashley) Chen (chenz385 |  XXXXXXXXX)
-- Jasmine Ho (hoj68 | XXXXXXXXX)
+- Jasmine Ho (hoj68 | 400374898)
 - JC Abanto (abantoj | 400377157) 
 
 Team Member Contributions:
