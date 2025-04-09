@@ -1,7 +1,7 @@
 # STATS 3DA3 Assignment 6 - Group 28
 
 Group Members:
-- Zhiyan (Ashley) Chen (chenz385 |  XXXXXXXXX)
+- Zhiyan (Ashley) Chen (chenz385 |  400365265)
 - Jasmine Ho (hoj68 | 400374898)
 - JC Abanto (abantoj | 400377157) 
 
