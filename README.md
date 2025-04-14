@@ -6,6 +6,6 @@ Group Members:
 - JC Abanto (abantoj | 400377157) 
 
 Team Member Contributions:
-- Zhiyan (Ashley) Chen |
-- Jasmine Ho |
+- Zhiyan (Ashley) Chen | Questions 12-14
+- Jasmine Ho | Questions 7-11 and 15
 - JC Abanto | Questions 1-6
